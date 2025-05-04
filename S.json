@@ -1,8 +1,8 @@
 {
   "pattern": "06 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 41 00 00 48 42",
   "writes": [
-    { "offset": 6, "byte": "00" },
-    { "offset": 7, "byte": "00" },
+    { "offset": 6, "byte": "F0" },
+    { "offset": 7, "byte": "41" },
     { "offset": 14, "byte": "00" },
     { "offset": 15, "byte": "00" }
   ]
